@@ -1,0 +1,8 @@
+C:\Users\divie\Documents\Development\Net\Comtele.Net4.Sdk\Comtele.Net4.Sdk\obj\Debug\Comtele.Net4.Sdk.csproj.CoreCompileInputs.cache
+C:\Users\divie\Documents\Development\Net\Comtele.Net4.Sdk\Comtele.Net4.Sdk\bin\Debug\Comtele.Net4.Sdk.dll
+C:\Users\divie\Documents\Development\Net\Comtele.Net4.Sdk\Comtele.Net4.Sdk\bin\Debug\Comtele.Net4.Sdk.pdb
+C:\Users\divie\Documents\Development\Net\Comtele.Net4.Sdk\Comtele.Net4.Sdk\bin\Debug\RestSharp.dll
+C:\Users\divie\Documents\Development\Net\Comtele.Net4.Sdk\Comtele.Net4.Sdk\bin\Debug\RestSharp.xml
+C:\Users\divie\Documents\Development\Net\Comtele.Net4.Sdk\Comtele.Net4.Sdk\obj\Debug\Comtele.Net4.Sdk.csproj.CopyComplete
+C:\Users\divie\Documents\Development\Net\Comtele.Net4.Sdk\Comtele.Net4.Sdk\obj\Debug\Comtele.Net4.Sdk.dll
+C:\Users\divie\Documents\Development\Net\Comtele.Net4.Sdk\Comtele.Net4.Sdk\obj\Debug\Comtele.Net4.Sdk.pdb
